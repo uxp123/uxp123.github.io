@@ -1,3 +1,3 @@
 # Papsy's Web 🖥📱
-# https://uxp123.github.io
+# https://papsy.herokuapp.com
 ![](web.png)
